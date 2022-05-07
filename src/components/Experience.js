@@ -25,6 +25,7 @@ const Experience = () => {
                         <li>Solidity blockchain language</li>
                         <li>Web3.js and Truffle</li>
                         <li>Ethers.js and Hardhat</li>
+                        <li>Node.js back end development </li>
                         <li>React.js front end development</li>
                     </ul>
                 </li>
