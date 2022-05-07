@@ -5,23 +5,27 @@ const Experience = () => {
 
             <ul>
                 <li>
-                    <i>Clayton State University</i>, 2014-2018
+                    <i>Laser Institute for Technology Education and Research</i>, 1996-2000
                     <ul>
-                        <li>Graduated with 3.00 GPA</li>
+                        <li>A.A.S. Photonics: Laser Electro-Optic Technology</li>
+                        <li>A.A.S. Photonics: Fiber Optics Technology</li>
                     </ul>
                 </li>
                 <li>
-                    <i>TechFlow</i> - <strong>Blockchain Developer Intern</strong>, 2018-2019
+                    <i>Self Taught</i> - <strong>HTML, CSS, JavaScript, VBA</strong>, 2016-2020
                     <ul>
-                        <li>Studied DApp development</li>
-                        <li>Assisted Research &amp; Development on Web3 Products</li>
+                        <li>Visual Basic for Applications</li>
+                        <li>Design websites with HTML and CSS</li>
+                        <li>Code dynamic websites with JavaScript and JQuery</li>
                     </ul>
                 </li>
                 <li>
-                    <i>SpiderChain</i> - <strong>Blockchain Developer</strong>, 2019-2022
+                    <i>Self Taught</i> - <strong>Blockchain Developement</strong>, 2021-2022
                     <ul>
-                        <li>Contributed to smart contract development on client's platform</li>
-                        <li>Peer reviewed &amp; Audited Solidity code</li>
+                        <li>Solidity blockchain language</li>
+                        <li>Web3.js and Truffle</li>
+                        <li>Ethers.js and Hardhat</li>
+                        <li>React.js front end development</li>
                     </ul>
                 </li>
             </ul>

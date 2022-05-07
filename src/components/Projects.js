@@ -7,7 +7,7 @@ const Projects = () => {
     return (
         <section className="projects">
             <h2>My Projects</h2>
-
+            
             <div className="projects__cards">
 
                 <div className="projects__card">
@@ -45,6 +45,7 @@ const Projects = () => {
                     <a href="https://aave.com/" target="_blank" className="button">Site</a>
                     <a href="https://github.com/aave/aave-v3-core" target="_blank" className="button">Code</a>
                 </div>
+                
             </div>
         </section>
     );

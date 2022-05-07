@@ -3,10 +3,10 @@ const Social = () => {
         <div className="social">
             <h2>Socials</h2>
 
-            <a href="" className="button">john@email.com</a>
-            <a href="https://twitter.com/" className="button">Twitter</a>
-            <a href="https://www.linkedin.com/" className="button">LinkedIn</a>
-            <a href="https://github.com/" className="button">GitHub</a>
+            <a href="mailto:jeremymileslaser@gmail.com" className='button'>Email</a>
+            <a href="https://twitter.com/JeremyM95102701/status/1488351579220684807" className="button">Twitter</a>
+            <a href="https://www.facebook.com/jeremy.miles.9421" className="button">Facebook</a>
+            <a href="https://github.com/jeremydmiles" className="button">GitHub</a>
         </div>
     );
 }
